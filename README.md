@@ -1,2 +1,2 @@
 # ZbarScanner
-QRScanner &amp; Decoder base on zbar
+QR Scanner &amp; Decoder base on zbar
